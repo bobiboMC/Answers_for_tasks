@@ -1,4 +1,4 @@
-# Answers_for_tasks
+# Answers for tasks
 ## Question 1
 Price Check
 ## Question 2
