@@ -1,5 +1,4 @@
 # Answers_for_tasks
-Answers for EigerX tasks
 ## Question 1
 Price Check
 ## Question 2
